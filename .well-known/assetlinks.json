@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.afya.medcelstation",
+    "sha256_cert_fingerprints":
+    ["EB:13:16:F2:FC:1E:D6:D9:07:94:58:F3:76:83:45:26:EF:76:90:6D:77:76:83:B0:7D:B1:78:A1:6E:DE:76:01"]
+  }
+}]
