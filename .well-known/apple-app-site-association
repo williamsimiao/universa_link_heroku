@@ -3,12 +3,12 @@
 	  "apps": [],
       "details": [
            {
-             "appIDs": [ "1447810180.com.universa-link-heroku.herokuapp" ],
+             "appIDs": [ "6GA5CPBS55.com.universa-link-heroku.herokuapp" ],
              "paths": [ "*"]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "1447810180.com.universa-link-heroku.herokuapp" ]
+      "apps": [ "6GA5CPBS55.com.universa-link-heroku.herokuapp" ]
    }
 }
