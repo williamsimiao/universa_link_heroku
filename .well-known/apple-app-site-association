@@ -3,9 +3,12 @@
 	  "apps": [],
       "details": [
            {
-             "appIDs": [ "6GA5CPBS55.br.com.afya.medcelstation" ],
+             "appIDs": [ "1447810180.br.com.areaaluno.medcel" ],
              "paths": [ "*"]
            }
        ]
+   },
+   "webcredentials": {
+      "apps": [ "1447810180.br.com.areaaluno.medcel" ]
    }
 }
