@@ -3,12 +3,12 @@
 	  "apps": [],
       "details": [
            {
-             "appIDs": [ "1447810180.br.com.areaaluno.medcel" ],
+             "appIDs": [ "1447810180.com.universa-link-heroku.herokuapp" ],
              "paths": [ "*"]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "1447810180.br.com.areaaluno.medcel" ]
+      "apps": [ "1447810180.com.universa-link-heroku.herokuapp" ]
    }
 }
