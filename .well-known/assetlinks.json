@@ -1,9 +1,17 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://universa-link-heroku.herokuapp.com"
+  }
+ },
+ {
+  "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "br.com.afya.medcelstation",
-    "sha256_cert_fingerprints":
-    ["EB:13:16:F2:FC:1E:D6:D9:07:94:58:F3:76:83:45:26:EF:76:90:6D:77:76:83:B0:7D:B1:78:A1:6E:DE:76:01"]
+    "package_name": "com.medcelareadoalunov4",
+    "sha256_cert_fingerprints": [
+      "D3:7F:9D:DB:46:0A:F3:31:7D:CC:5F:2F:90:8E:0B:DC:DA:8C:13:D8:ED:DB:54:A4:64:6F:05:F3:9E:E1:DA:4E"
+    ]
   }
-}]
+ }]
